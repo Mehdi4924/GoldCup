@@ -1,0 +1,43 @@
+{
+  "project_info": {
+    "project_number": "967665907401",
+    "project_id": "goldcup-7d5b3",
+    "storage_bucket": "goldcup-7d5b3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:967665907401:android:b57be21bc8252723317f18",
+        "android_client_info": {
+          "package_name": "com.goldcups"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "967665907401-415hh5dnb9k76af5m5argsc4tud2fogg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.goldcups",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA17UzR_B47qy-5BdT59C8fN-PEB0Nl_A8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "967665907401-gbep86104ogkf18t0jb2are9t5ktlhtj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
